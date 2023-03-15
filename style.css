@@ -1,0 +1,41 @@
+body {
+  background-color: rgb(146, 113, 113);
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: rgb(217, 0, 255);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+#you {
+  text-decoration: none;
+  color: rgb(255, 0, 0);
+  font-size: 100px;
+}
+#yout {
+  text-decoration: none;
+  color: rgb(51, 255, 0);
+  font-size: 100px;
+}
+#shh {
+  text-decoration: none;
+  color: rgb(0, 132, 255);
+  font-size: 100px;
+}
